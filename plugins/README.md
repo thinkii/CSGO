@@ -7,4 +7,6 @@ Imprescindibles:
 
 Todos están en esta ruta: `addons\sourcemod\plugins`
 
-Los demás son inútiles a mi modo de ver.
+Inútiles:
+
+- Todos los demás
