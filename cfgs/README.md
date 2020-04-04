@@ -4,7 +4,7 @@ Para los que no estéis familiarizados con esto, lo que viene a decir es que jug
 
 - gamemode_competitive.cfg: Config cuya única finalidad es que al cambiar el mapa la configuración de `warmup.cfg` esté cargada por defecto sin tener que hacer nada nosotros (es necesario que en la última línea de server.cfg esté `exec gamemode_competitive.cfg` puesto)
 
-(me ha costado encontrar esta mierda bastante tiempo y estoy orgulloso de ello, la verdad xD)
+> Me ha costado encontrar esta mierda bastante tiempo y estoy orgulloso de ello, la verdad xD
 
 - simulacion.cfg: Config para hacer simulaciones de executes saliendo de base con un poco de `mp_freezetime` (7 en concreto, ¿casualidad?)
 
