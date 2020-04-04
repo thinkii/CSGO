@@ -2,7 +2,7 @@
 
 Para los que no estéis familiarizados con esto, lo que viene a decir es que jugaréis las 15 rondas de T y las otras 15 de CT sin importar de qué lado empecéis.
 
-- gamemode_competitive.cfg: Config cuya única finalidad es que al cambiar el mapa la configuración de warmup.cfg esté cargada por defecto sin tener que hacer nada nosotros.
+- gamemode_competitive.cfg: Config cuya única finalidad es que al cambiar el mapa la configuración de warmup.cfg esté cargada por defecto sin tener que hacer nada nosotros (es necesario que en la última línea de server.cfg esté sin comillas "exec gamemode_competitive.cfg")
 
 (me ha costado encontrar esta mierda bastante tiempo y estoy orgulloso de ello, la verdad xD)
 
