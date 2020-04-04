@@ -1,4 +1,4 @@
-La config del `damageprint` es para ver el daño como en faceit, igualito, con su color verde y todo.
+Esta config del `damageprint` es para ver el daño como en faceit, igualito, con su color verde y todo.
 
 Solo hay que meter este archivo.cfg en esta ruta:
 
