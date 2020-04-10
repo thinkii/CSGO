@@ -1,10 +1,10 @@
 ## Todas las cfgs y plugins son para servidores privados destinados a jugar PRACCS y practicar utilidad con el `practicemode`.
 
-No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enterarte de las últimas actualizaciones.
-
 Si buscas la guía de Windows 10, está [aquí](https://github.com/thinkii/PC)
 
-Serie de configuraciones (todas de ellas salvo las especificadas) que requieren de sourcemod para que funcionen características como el dinero infinito en warmup.
+No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enterarte de las últimas actualizaciones.
+
+### Serie de configuraciones (todas de ellas salvo las especificadas) que requieren de sourcemod para que funcionen características como el dinero infinito en warmup.
 
 Un tutorial de cómo configurar todo está disponible [aquí](https://www.youtube.com/watch?v=OLvgXZ_EmOY) 
 
