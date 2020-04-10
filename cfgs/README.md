@@ -1,6 +1,4 @@
-- `server.cfg` es la configuración principal del servidor. Tendrás que editar el nombre del servidor, la contraseña y la rcon.
-
-Están puestas en las primeras líneas para que sea más intuitivo, el resto ya es a gusto del consumidor.
+- `server.cfg` es la configuración principal del servidor. Tendrás que editar el nombre del servidor, la contraseña y la rcon. Están puestas en las primeras líneas para que sea más intuitivo, el resto ya es a gusto del consumidor.
 
 - `esl5on5.cfg`: Config para empezar el partido, se jugarán las 30 rondas completas, es decir, un partido puede acabar 21-9, 30-0 o 15-15. También elimina todos los comandos de `sv_cheats` o de `practicemode`, como por ejemplo el `sv_showimpacts` o la munición infinita.
 
