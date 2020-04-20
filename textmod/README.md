@@ -1,12 +1,12 @@
-## ¿Cómo descargarlo?
-
-Copias todo el contenido del archivo que sale arriba en un .txt y sigues las instrucciones.
-
 ## ¿Qué ventajas me ofrece?
 
 El chat se ve mucho más limpio, especialmente a la hora de ver las granadas que se han tirado, tienen colores y a la derecha aparece la posición de la que se ha tirado.
 
 También está más limpio cuando alguien se mete de T o CT, aparece algo como esto `thinkii > T` o `thinkii > CT` 
+
+## ¿Cómo descargarlo?
+
+Copias todo el contenido del archivo que sale arriba en un .txt y sigues las instrucciones.
 
 ## Instalación de TextMod
 
