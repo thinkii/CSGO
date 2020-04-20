@@ -23,3 +23,7 @@ Copias todo el contenido del archivo que sale arriba en un .txt y sigues las ins
 - Que las opciones de lanzamiento están bien puestas.
 
 Esto sería un ejemplo `-novid -language competitivo -tickrate 128`
+
+## Imágenes
+
+https://twitter.com/thinkiiCS/status/1252308450190798848
