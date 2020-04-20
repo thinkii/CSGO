@@ -4,6 +4,10 @@ El chat se ve mucho más limpio, especialmente a la hora de ver las granadas que
 
 También está más limpio cuando alguien se mete de T o CT, aparece algo como esto `thinkii > T` o `thinkii > CT` 
 
+## ¿Es VAC baneable?
+
+No, para nada, es más, para que te quedes más tranquilo, los Traductores de Steam para testear las traducciones tienen la opción de descargar estos archivos desde su página.
+
 ## ¿Cómo descargarlo?
 
 Copias todo el contenido del archivo que sale arriba en un .txt y sigues las instrucciones.
