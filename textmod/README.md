@@ -27,3 +27,7 @@ Esto sería un ejemplo `-novid -language competitivo -tickrate 128`
 ## Imágenes
 
 https://twitter.com/thinkiiCS/status/1252308450190798848
+
+## ¿Cómo lo quito? 
+
+Con quitar de opciones de lanzamiento `-language competitivo` ya vale.
