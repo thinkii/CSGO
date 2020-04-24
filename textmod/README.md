@@ -26,7 +26,9 @@ Esto sería un ejemplo `-novid -language competitivo -tickrate 128`
 
 ## Imágenes
 
-https://twitter.com/thinkiiCS/status/1252308450190798848
+![alt text](https://pbs.twimg.com/media/EWEXx-zXYAAAyHw?format=jpg&name=large "Imagen 1")
+![alt text](https://pbs.twimg.com/media/EWEXx-yXQAM-nVO?format=jpg&name=large "Imagen 2")
+![alt text](https://pbs.twimg.com/media/EWEXx-1WAAAePVH?format=jpg&name=large "Imagen 3")
 
 ## ¿Cómo lo quito? 
 
