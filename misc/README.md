@@ -4,7 +4,7 @@ Solo hay que meter este archivo.cfg en esta ruta:
 
 `csgo/cfg/sourcemod/`
 
-Se verá como así:
+Se verá así:
 
 ![alt text](https://i.gyazo.com/23c757dcf20342ba7d5d65c52f355419.png "Imagen daño estilo Faceit")
 
