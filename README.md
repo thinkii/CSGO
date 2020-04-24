@@ -8,8 +8,7 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 
 Un tutorial de cómo configurar todo está disponible [aquí](https://www.youtube.com/watch?v=OLvgXZ_EmOY) 
 
-<iframe width="420" height="315"
-	src="https://www.youtube.com/embed/OLvgXZ_EmOY?	playlist=OLvgXZ_EmOY&loop=1">
+<iframe width="420" height="315 src="https://www.youtube.com/embed/OLvgXZ_EmOY?	playlist=OLvgXZ_EmOY&loop=1">
 </iframe>
 
 # Si me quieres pagar una birrita o algo [aquí puedes](https://www.paypal.me/thinkii)
