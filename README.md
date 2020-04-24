@@ -6,7 +6,7 @@ No te olvides de seguirme en [Twitter](https://twitter.com/thinkiiCS) para enter
 
 ### Serie de configuraciones (todas de ellas salvo las especificadas) que requieren de sourcemod para que funcionen características como el dinero infinito en warmup.
 
-Un tutorial de cómo configurar todo está disponible [aquí](https://www.youtube.com/watch?v=OLvgXZ_EmOY) 
+Un tutorial de cómo configurar todo está disponible justo debajo (haced clic)
 
 [![](http://img.youtube.com/vi/OLvgXZ_EmOY/0.jpg)](http://www.youtube.com/watch?v=OLvgXZ_EmOY "")
 
