@@ -16,6 +16,40 @@ Esta config de GOTV está hecha 100% por mí, los comandos los he ido buscando p
 - Niebla eliminada junto a postprocesado y cambio de cielo por otro más estético.
 
 - Rayos X activados en Kits de desactivación.
+
+```
+// GOTV config by thinkii 27/04/2020
+
+// Casi todos los comandos requieren de sv_cheats 1
+sv_cheats "1"
+
+// Viewmodel mejorado para GOTV
+viewmodel_presetpos "0"
+viewmodel_offset_y "2"
+viewmodel_offset_z "-2"
+viewmodel_recoil "0"
+
+// Movimiento del arma reducido al mínimo
+cl_bob_lower_amt "5"
+cl_bobamt_lat "0.1"
+cl_bobamt_vert "0.1"
+cl_bobcycle "0.980000"
+
+// Desactiva postprocesado
+mat_postprocess_enable "0"
+mat_disable_bloom "1"
+
+// Desactiva la niebla
+fog_override "1"
+fog_enable "0"
+
+// Cambia el cielo por otro mucho mejor
+sv_skyname vertigoblue_hdr
+
+// Rayos X en defusekits
+spec_xray_dropped_unoccluded "1"
+spec_xray_dropped_defusekits "1"
+```
    
 ## Nombres de equipos
 
