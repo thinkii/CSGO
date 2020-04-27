@@ -49,3 +49,5 @@ mp_teammatchstat_1 Champion
 mp_Teammatchstat_2 Challenger
 
 ![alt text](https://steamuserimages-a.akamaihd.net/ugc/222193264457345839/105BFD1CD1C0A2806737297BA58E1F4AFB15E2A3/ "CS")
+
+Guía que he usado como referencia [How to setup team logos, names etc.](https://steamcommunity.com/sharedfiles/filedetails/?id=788257116)
