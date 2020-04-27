@@ -56,6 +56,8 @@ mp_teamlogo_1 hlr
 mp_teamlogo_2 tsm
 ```
 
+Lista completa de logos [aquí](https://steamcommunity.com/sharedfiles/filedetails/?id=1109861355)
+
 ![alt text](https://steamuserimages-a.akamaihd.net/ugc/222193264455678340/EE31706B8162AD90553CC50E3DE93144F1CEC80C/ "CS")
 
 ## Estadísticas
