@@ -1,9 +1,21 @@
 # Índice
+
+- [Config de GOTV](#Config-GOTV)
 - Configuraciones del score superior
    - [Nombres de equipos](#-Nombres-de-equipos)
    - [Banderas](#Banderas)
    - [Logos](#Logos)
    - [Estadísticas](#Estadísticas)
+   
+## Config GOTV
+
+Esta config de GOTV está hecha 100% por mí, los comandos los he ido buscando por ahí y su objetivo es mejorar la calidad del stream en Twitch lo máximo posible.
+
+- Reducido el movimiento del Viewmodel el máximo posible que permite el juego (y que visualmente queda bien).
+
+- Niebla eliminada junto a postprocesado y cambio de cielo por otro más estético.
+
+- Rayos X activados en Kits de desactivación.
    
 ## Nombres de equipos
 
