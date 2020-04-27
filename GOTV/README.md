@@ -1,3 +1,10 @@
+# Índice
+- Configuraciones del score superior
+   - [Nombres de equipos](#-Nombres-de-equipos)
+   - [Banderas](#Banderas)
+   - [Logos](#Logos)
+   - [Estadísticas](#Estadísticas)
+   
 ## Nombres de equipos
 
 Para añadir los nombres a los equipos usaremos estos comandos:
