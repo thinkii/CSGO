@@ -17,6 +17,8 @@ Esta config de GOTV está hecha 100% por mí, los comandos los he ido buscando p
 
 - Rayos X activados en Kits de desactivación.
 
+Agregad todo esto a una config nueva llamada `GOTV.cfg` para que la podáis ejecutar cada vez que vayáis a castear/ver una demo.
+
 ```
 // GOTV config by thinkii 27/04/2020
 
