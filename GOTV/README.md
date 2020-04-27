@@ -25,6 +25,43 @@ Agregad todo esto a una config nueva llamada `GOTV.cfg` para que la podáis ejec
 // Casi todos los comandos requieren de sv_cheats 1
 sv_cheats "1"
 
+// Misc
+engine_no_focus_sleep 		"0" 	// Evita que el juego baje a 30fps cuando los que hacen stream en pantalla completa sin bordes tabulan
+
+// Sonido
+snd_mixahead 			"0.015"
+snd_musicvolume         	"0"  	// Volumen maestro de la música
+snd_deathcamera_volume  	"0"     // Música de muerte
+snd_mapobjective_volume 	"0"     // Música que suena cuando plantan
+snd_menumusic_volume    	"0"     // Música del menú principal
+snd_music_selection 		"0"
+snd_roundend_volume     	"0"     // Música cuando la ronda acaba
+snd_roundstart_volume   	"0"     // Música cuando la ronda comienza
+snd_tensecondwarning_volume 	"0"	// Música de los últimos 10 segundos de bomba
+
+// Comunicaciones
+lobby_voice_chat_enabled 	"0"	// Desactiva el chat de voz del lobby
+voice_enable        		"0"	// Desactiva chat de voz por completo
+cl_chatfilters 			"0"	// Desactiva el cuadrado del chat
+tv_nochat 			"1"	// Desactiva el chat de GOTV
+
+// Comandos de cámara
+cl_disablefreezecam 			"1" 
+cl_freezecampanel_position_dynamic 	"0" 
+cl_obs_interp_enable			"0"	// Desactiva el suavizado al cambiar de cámara
+sv_spec_post_death_additional_time 	"2"	// Añade 2 segundos de espera antes de cambiar de cámara cuando alguien muere. Default: 5
+sv_spec_use_tournament_content_standards "1"	// Cuando esté disponible, utilizará los nicks forzados que el torneo ha configurado e ignorará los name tags de las armas.
+
+// Radar
+cl_radar_icon_scale_min 		"1"	// Hace los iconos del radar más grandes para que la gente pueda ver el número de dentro.
+cl_hud_radar_scale 			"1.3"	// Hace el radar más grande en general. 
+
+// HUD 
+hud_scaling 			"0.85"
+cl_spec_show_bindings 		"0" 	// Oculta los binds de debajo de las stats de los jugadores
+cl_spec_stats 			"0" 	// Elimina las stats de KDA de debajo de los jugadores, ya que a veces son incorrectas
+cl_hud_color 			"1"	// Pone todos los elementos en color blanco, al ser el más neutro también es el mejor imo.
+
 // Viewmodel mejorado para GOTV
 viewmodel_presetpos "0"
 viewmodel_offset_y "2"
@@ -51,6 +88,31 @@ sv_skyname vertigoblue_hdr
 // Rayos X en defusekits
 spec_xray_dropped_unoccluded "1"
 spec_xray_dropped_defusekits "1"
+
+// Mirilla
+cl_crosshair_drawoutline "1"
+cl_crosshair_dynamic_maxdist_splitratio "0.35"
+cl_crosshair_dynamic_splitalpha_innermod "1"
+cl_crosshair_dynamic_splitalpha_outermod "0.5"
+cl_crosshair_dynamic_splitdist "7"
+cl_crosshair_outlinethickness "1"
+cl_crosshair_sniper_show_normal_inaccuracy "0"
+cl_crosshair_sniper_width "1"
+cl_crosshairalpha "200.000000"
+cl_crosshaircolor "5"
+cl_crosshaircolor_b "0"
+cl_crosshaircolor_g "255"
+cl_crosshaircolor_r "0"
+cl_crosshairdot "0"
+cl_crosshairgap "0.500000"
+cl_crosshairgap_useweaponvalue "0"
+cl_crosshairscale "0"
+cl_crosshairsize "4.000000"
+cl_crosshairstyle "4"
+cl_crosshairthickness "1.000000"
+cl_crosshairusealpha "1"
+cl_fixedcrosshairgap "-2"
+cl_show_observer_crosshair "0" // Cambiar para volver a activar las mirillas de la gente
 ```
    
 ## Nombres de equipos
