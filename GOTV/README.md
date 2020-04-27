@@ -41,7 +41,8 @@ snd_tensecondwarning_volume 	"0"	// Música de los últimos 10 segundos de bomba
 
 // Comunicaciones
 lobby_voice_chat_enabled 	"0"	// Desactiva el chat de voz del lobby
-voice_enable        		"0"	// Desactiva chat de voz por completo
+voice_enable        		"1"	// Chat de voz activado
+voice_scale 			"0"	// Dejamos el voice_enable a 1 porque si no aparece abajo a la izquierda las letras en rojo
 cl_chatfilters 			"0"	// Desactiva el cuadrado del chat
 tv_nochat 			"1"	// Desactiva el chat de GOTV
 
