@@ -17,6 +17,16 @@ Esta config de GOTV está hecha por mí, los comandos los he ido buscando por ah
 
 - Rayos X activados en Kits de desactivación.
 
+- Radar más grande para una mejor visualización en stream.
+
+- Mirilla grande y bastante visible.
+
+- Ajustes varios de sonido.
+
+- Ajustes de HUD.
+
+- Ajustes de cambio de cámara.
+
 Agregad todo esto a una config nueva llamada `GOTV.cfg` para que la podáis ejecutar cada vez que vayáis a castear/ver una demo.
 
 ```
