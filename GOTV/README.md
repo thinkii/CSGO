@@ -32,7 +32,7 @@ Agregad todo esto a una config nueva llamada `GOTV.cfg` para que la podáis ejec
 ```
 // GOTV config by thinkii 27/04/2020
 
-// Casi todos los comandos requieren de sv_cheats 1
+// Unos cuantos comandos requieren de sv_cheats 1
 sv_cheats "1"
 
 // Misc
