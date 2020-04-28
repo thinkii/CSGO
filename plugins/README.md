@@ -1,4 +1,4 @@
-Imprescindibles:
+## Imprescindibles
 
 - [Practicemode](https://github.com/splewis/csgo-practice-mode)
 
@@ -9,12 +9,13 @@ Imprescindibles:
 
 Todos están en esta ruta: `addons\sourcemod\plugins`
 
-Inútiles:
+## Inútiles:
 
 - Todos los demás
 
+## Limpieza de plugins
 
-Si queréis eliminar plugins que vienen por defecto totalmente inútiles que no van a afectar en NADA a lo que vais a utilizar seguid esta lista.
+Si queréis eliminar plugins que vienen por defecto totalmente inútiles que no van a afectar en NADA a lo que vais a utilizar seguid esta lista. Esto mejora ligeramente el rendimiento
 
 Estos son los únicos que tenéis que mantener (de los que trae por defecto sourcemod, luego añadís los que queráis, como por ejemplo `csgo_damageprint.smx`
 
