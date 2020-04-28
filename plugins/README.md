@@ -15,7 +15,7 @@ Todos están en esta ruta: `addons\sourcemod\plugins`
 
 ## Opcionales
 
-- `rr.smx`
+- `rr.smx`, este plugin lo que hace es un restart de 3 segundos de duración si ponemos en el chat !rr
 
 ## Limpieza de plugins
 
