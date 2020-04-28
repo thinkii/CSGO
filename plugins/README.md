@@ -13,6 +13,10 @@ Todos están en esta ruta: `addons\sourcemod\plugins`
 
 - Todos los demás
 
+## Opcionales
+
+- `rr.smx`
+
 ## Limpieza de plugins
 
 Si queréis eliminar plugins que vienen por defecto totalmente inútiles que no van a afectar en NADA a lo que vais a utilizar seguid esta lista. Esto mejora ligeramente el rendimiento
