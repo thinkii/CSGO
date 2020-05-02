@@ -6,6 +6,7 @@
    - [Banderas](#Banderas)
    - [Logos](#Logos)
    - [Estadísticas](#Estadísticas)
+- [Config de stream](#Config-de-stream)
    
 ## Config GOTV
 
@@ -202,3 +203,11 @@ mp_Teammatchstat_2 Challenger
 ![alt text](https://steamuserimages-a.akamaihd.net/ugc/222193264457345839/105BFD1CD1C0A2806737297BA58E1F4AFB15E2A3/ "CS")
 
 Guía que he usado como referencia [How to setup team logos, names etc.](https://steamcommunity.com/sharedfiles/filedetails/?id=788257116)
+
+## Config de stream
+
+Si vais a usar la cfg de GOTV os recomiendo añadirle un filtro de color a la fuente que tengáis de CS:GO.
+
+Eso se hace dando botón derecho sobre la fuente de CS:GO y seleccionando `Filtros`, añadir filtro (botón derecho o el icono de + de abajo a la izquierda) y elegís la opción `Correción de color`.
+
+Mi preferencia personal es poner la `Saturación` a `1,00`, se verá bastante más colorido pero sin llegar a ser agresivo para el viewer.
