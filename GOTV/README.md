@@ -46,6 +46,7 @@ snd_deathcamera_volume  	"0"     // Música de muerte
 snd_mapobjective_volume 	"0"     // Música que suena cuando plantan
 snd_menumusic_volume    	"0"     // Música del menú principal
 snd_music_selection 		"0"
+snd_mute_losefocus      "0"        // Reproduce el sonido en segundo plano cuando el CS:GO está minimizado
 snd_roundend_volume     	"0"     // Música cuando la ronda acaba
 snd_roundstart_volume   	"0"     // Música cuando la ronda comienza
 snd_tensecondwarning_volume 	"0"	// Música de los últimos 10 segundos de bomba
