@@ -12,7 +12,7 @@ No, para nada, es más, para que te quedes más tranquilo, los Traductores de St
 
 Haciendo clic sobre la versión que quieras:
 
-- Competitivo
+- [Competitivo](https://drive.google.com/file/d/1qCe8DvRr9Rj_Z4LKpZITQ0D_kzTXLwFM/view?usp=sharing)
 
 - [Competitivo_v2](https://drive.google.com/file/d/11ql_FTXjG6z6IK8-snfpfGKOI3J6z1qI/view)
 
