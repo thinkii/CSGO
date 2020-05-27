@@ -10,7 +10,11 @@ No, para nada, es más, para que te quedes más tranquilo, los Traductores de St
 
 ## ¿Cómo descargarlo?
 
-Copias todo el contenido del archivo que sale arriba en un .txt y sigues las instrucciones.
+Haciendo clic sobre la versión que quieras:
+
+- Competitivo
+
+- [Competitivo_v2](https://drive.google.com/file/d/11ql_FTXjG6z6IK8-snfpfGKOI3J6z1qI/view)
 
 ## Instalación de TextMod
 
