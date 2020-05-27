@@ -17,7 +17,7 @@ Copias todo el contenido del archivo que sale arriba en un .txt y sigues las ins
 1. Mueve `csgo_competitivo.txt` dentro de esta ruta `Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource`.
 2. Pon `-language competitivo` en tus opciones de lanzamiento.
 
-** Si vas a usar `csgo_competitivo_v2.txt` puedes o cambiarle el nombre a `csgo_competitivo.txt` o cambiar la opción de lanzamiento por `-language competitivo_v2`, lo que tú prefieras **
+**Si vas a usar `csgo_competitivo_v2.txt` puedes o cambiarle el nombre a `csgo_competitivo.txt` o cambiar la opción de lanzamiento por `-language competitivo_v2`, lo que tú prefieras**
 
 ## ¿No funciona? Asegúrate de:
 
