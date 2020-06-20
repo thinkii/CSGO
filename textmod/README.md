@@ -14,7 +14,7 @@ Haciendo clic sobre la versión que quieras:
 
 - [Competitivo](https://drive.google.com/file/d/1qCe8DvRr9Rj_Z4LKpZITQ0D_kzTXLwFM/view?usp=sharing)
 
-- [Competitivo_v2](https://drive.google.com/file/d/1i8Kq5o9oVlydrLDj3gPFpMfzTmwWccv4/view?usp=sharing)
+- [Competitivo_v2](https://drive.google.com/file/d/1c2HTarFU9NrzBeXd-fm9Y2GiHjVC7Mly/view?usp=sharing)
 
 ## Instalación de TextMod
 
