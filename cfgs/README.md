@@ -10,5 +10,3 @@ Para los que no estéis familiarizados con esto, lo que viene a decir es que jug
 
 - `simulacion.cfg`: Config para hacer simulaciones de executes saliendo de base con un poco de `mp_freezetime` (7 en concreto, ¿casualidad?)
 
-- `warmup.cfg`: Config para que haya calentamiento y puedas renacer todo el rato, si no has metido `gamemode_competitive.cfg` pero sí tienes `server.cfg` con poner "rcon entreno" en consola la cargará automáticamente.
-
