@@ -5,8 +5,6 @@
 - [!pause, .coach, no hay bots y daño en chat a final de ronda](https://ci.splewis.net/job/sm-misc/lastSuccessfulBuild/artifact/builds/release/sm-misc-19.zip)
 `csgo_coachcommand.smx, csgo_damageprint.smx, csgo_pause.smx y nobots_enforcer.smx`
 
-- `servercleanup.smx` Este plugin lo que hace es "limpiar" el servidor cada cambio de mapa, elimina logs, demos y demás mierda del servidor para que vaya finito.
-
 Todos están en esta ruta: `addons\sourcemod\plugins`
 
 ## Inútiles:
