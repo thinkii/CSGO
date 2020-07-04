@@ -14,14 +14,14 @@ Haciendo clic sobre la versión que quieras:
 
 - [Competitivo](https://drive.google.com/file/d/1qCe8DvRr9Rj_Z4LKpZITQ0D_kzTXLwFM/view?usp=sharing)
 
-- [Competitivo_v2](https://drive.google.com/file/d/1c2HTarFU9NrzBeXd-fm9Y2GiHjVC7Mly/view?usp=sharing)
+- [Competitivo_v2](https://drive.google.com/file/d/1jRiFpAXy0ogFBHC_VAdR0pmbabWz1uiK/view?usp=sharing)
 
 ## Instalación de TextMod
 
 1. Mueve `csgo_competitivo.txt` dentro de esta ruta `Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource`.
 2. Pon `-language competitivo` en tus opciones de lanzamiento.
 
-**Si vas a usar `csgo_competitivo_v2.txt` puedes o cambiarle el nombre a `csgo_competitivo.txt` o cambiar la opción de lanzamiento por `-language competitivo_v2`, lo que tú prefieras**
+**Si vas a usar `csgo_competitivo_v2.txt` puedes o cambiarle el nombre a `csgo_competitivo.txt` o cambiar la opción de lanzamiento por `-language competitivov2`, lo que tú prefieras**
 
 ## ¿No funciona? Asegúrate de:
 
