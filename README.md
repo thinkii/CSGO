@@ -1,3 +1,5 @@
+# REPOSITORIO DESACTUALIZADO, EL CONTENIDO NUEVO ESTÁ EN DISCORD https://discord.com/invite/u86Tsub
+
 ## Todas las cfgs y plugins son para servidores privados destinados a jugar PRACCS y practicar utilidad con el `practicemode`.
 
 Si buscas la guía de Windows 10, está [aquí](https://github.com/thinkii/PC)
